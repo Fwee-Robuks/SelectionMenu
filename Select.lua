@@ -1,3 +1,5 @@
+
+if Game.PlaceId == 155615604 then
 Rayfield:Notify({
     Title = "Supported Game Detected",
     Content = "Press Execute To Load Intercept Hub!",
